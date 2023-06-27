@@ -1,15 +1,14 @@
-# Elysia with Bun runtime
+## Creating a framework
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
-```bash
-bun create elysia ./elysia-example
-```
+This is a project that takes into considerations, the consolidation of concepts to build a backend framework
 
-## Development
-To start the development server run:
-```bash
-bun run dev
-```
+This project was modelaralized using concepts such as:
 
-Open http://localhost:3000/ with your browser to see the result.
+- Models (ORM)
+- Migrations (comming soon)
+- Repositories
+- Routers
+- Services (comming soon)
+- Use Cases (comming soon)
+
+Most of the concepts are still being developed
